@@ -1,7 +1,6 @@
 # Autokosten Vergelijker
 
-Webtool die op basis van een Nederlands kenteken de autokosten per maand berekent,
-naar het voorbeeld van de ANWB Autokosten Vergelijker. Je kunt auto's opslaan en
+Webtool die op basis van een Nederlands kenteken de autokosten per maand berekent. Je kunt auto's opslaan en
 tot vier opgeslagen auto's naast elkaar vergelijken.
 
 ## Functies
